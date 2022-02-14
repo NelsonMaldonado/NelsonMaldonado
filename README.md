@@ -1,5 +1,7 @@
+
+
 <h1 align="center">Hi 👋, I'm Nelson Maldonado</h1>
-<img src="https://previews.dropbox.com/p/thumb/ABe1J_VrWhDMiVlfCk5AR-ytnVekXjyGIQXHHjF3i-Ul8NxkO8aJtlxWzbKjzfQmpzaLIv6MDc518CCDIYWOo3d_5h1jN8lrEC1ThQ0bv63qJlTVYZGCHWHWxwf3ezr44X4cB0DqripPt2C0N03HSjuWBHQ-C1Vqt2KIinouTA2ERjosiu5DsXypfDjcBCQAHkB1FQGiRASwALKRVq_p78s48QmmBwOzJ1kPQ0dSItUxTUC-TJ1jCN-Yom1vLk3nqxfgRH0EvqRJnSgJpAaBS__y-Xln4ObNY-pIwBrl9BYfpDmnZ8eTZFjm5k4WzID2G-19_TXkbBJk9UTWppm7s4v5NLU8Ka_oVA4aFP5P0gU8aA/p.png" >
+<a href="https://ibb.co/tQDJ49m"><img src="https://i.ibb.co/34cC7nr/Nelson-banner.png" alt="Nelson-banner" border="0"></a>
 
 <h3 align="center">A passionate Fullstack developer from Oakland CA</h3>
 
