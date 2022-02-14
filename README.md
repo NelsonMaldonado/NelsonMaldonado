@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nelson Maldonado</h1>
-<a href="https://ibb.co/tQDJ49m"><img src="https://i.ibb.co/34cC7nr/Nelson-banner.png" alt="Nelson-banner" border="0"></a>
+<img src="https://i.ibb.co/34cC7nr/Nelson-banner.png" alt="Nelson-banner" border="0" ></a>
 
 <h3 align="center">A passionate Fullstack developer from Oakland CA</h3>
 
