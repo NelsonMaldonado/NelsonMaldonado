@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nelson Maldonado</h1>
-<img src="https://user-images.githubusercontent.com/84058769/153951847-f54d5965-24cd-4cbf-a408-b44a5ef77b2c.png" alt="computer_screens" width="500" height="600">
+<img src="https://user-images.githubusercontent.com/84058769/153951847-f54d5965-24cd-4cbf-a408-b44a5ef77b2c.png" alt="computer_screens" width="200" height="100">
 
 <h3 align="center">A passionate Fullstack developer from Oakland CA</h3>
 
