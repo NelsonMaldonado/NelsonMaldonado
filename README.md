@@ -1,10 +1,9 @@
 
 
-<h1 align="center">Hi 👋, I'm Nelson Maldonado</h1>
 <img src="https://i.ibb.co/34cC7nr/Nelson-banner.png" alt="Nelson-banner" border="0" ></a>
 
-<h3 align="center">A passionate Fullstack developer from Oakland CA</h3>
-Hi I’m Nelson, a passionate Full Stack Web Developer focused on delivering powerful software engineering solutions and collaborating with like-minded professionals to accomplish big goals!
+
+Hi 👋I’m Nelson, a passionate Full Stack Web Developer focused on delivering powerful software engineering solutions and collaborating with like-minded professionals to accomplish big goals!
 
 Currently, I am contributing to both independent and team oriented development projects.
 ⬇ 𝐒𝐜𝐫𝐨𝐥𝐥 𝐃𝐨𝐰𝐧 𝐓𝐨 𝐕𝐢𝐞𝐰 𝐌𝐲 𝐑𝐞𝐜𝐞𝐧𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 ⬇
