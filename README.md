@@ -4,6 +4,22 @@
 <img src="https://i.ibb.co/34cC7nr/Nelson-banner.png" alt="Nelson-banner" border="0" ></a>
 
 <h3 align="center">A passionate Fullstack developer from Oakland CA</h3>
+Hi I’m Nelson, a passionate Full Stack Web Developer focused on delivering powerful software engineering solutions and collaborating with like-minded professionals to accomplish big goals!
+
+Currently, I am contributing to both independent and team oriented development projects.
+⬇ 𝐒𝐜𝐫𝐨𝐥𝐥 𝐃𝐨𝐰𝐧 𝐓𝐨 𝐕𝐢𝐞𝐰 𝐌𝐲 𝐑𝐞𝐜𝐞𝐧𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 ⬇
+
+As a Software Engineer, I look forward to contributing my combined skills and experience in video editing, media production, and directing salsa choreography in a creative and dynamic way. 
+
+💻𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤:
+Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Axios, JavaScript, HTML, CSS,
+Backend: Node.js, Express, SQL, PostgreSQL,  Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify, FirebaseAuth
+Additional Skills: Adobe After Effects, Premiere, Photoshop, Davinci Resolve, OBS, Cinematography, Celtx
+
+📲Interested in learning more about Full-Stack Web Development career opportunities.
+
+💬Please reach out with any questions or opportunities—> Looking forward to connecting.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
