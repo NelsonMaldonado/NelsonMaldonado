@@ -14,6 +14,7 @@ As a Software Engineer, I look forward to contributing my combined skills and ex
 Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Axios, JavaScript, HTML, CSS,
 
 Backend: Node.js, Express, SQL, PostgreSQL,  Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify, FirebaseAuth
+
 Additional Skills: Adobe After Effects, Premiere, Photoshop, Davinci Resolve, OBS, Cinematography, Celtx
 
 📲Interested in learning more about Full-Stack Web Development career opportunities.
