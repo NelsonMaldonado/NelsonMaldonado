@@ -6,7 +6,7 @@
 Hi 👋I’m Nelson, a passionate Full Stack Web Developer focused on delivering powerful software engineering solutions and collaborating with like-minded professionals to accomplish big goals!
 
 Currently, I am contributing to both independent and team oriented development projects.
-⬇ 𝐒𝐜𝐫𝐨𝐥𝐥 𝐃𝐨𝐰𝐧 𝐓𝐨 𝐕𝐢𝐞𝐰 𝐌𝐲 𝐑𝐞𝐜𝐞𝐧𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 ⬇
+
 
 As a Software Engineer, I look forward to contributing my combined skills and experience in video editing, media production, and directing salsa choreography in a creative and dynamic way. 
 
@@ -20,6 +20,7 @@ Additional Skills: Adobe After Effects, Premiere, Photoshop, Davinci Resolve, OB
 📲Interested in learning more about Full-Stack Web Development career opportunities.
 
 💬Please reach out with any questions or opportunities—> Looking forward to connecting.
+⬇ 𝐒𝐜𝐫𝐨𝐥𝐥 𝐃𝐨𝐰𝐧 𝐓𝐨 𝐕𝐢𝐞𝐰 𝐌𝐲 𝐑𝐞𝐜𝐞𝐧𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 ⬇
 
 
 <h3 align="left">Connect with me:</h3>
