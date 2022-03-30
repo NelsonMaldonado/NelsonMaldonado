@@ -10,7 +10,7 @@ Currently, I am contributing to both independent and team oriented development p
 
 As a Software Engineer, I look forward to contributing my combined skills and experience in video editing, media production, and directing salsa choreography in a creative and dynamic way. 
 
-💻𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤:
+💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤:
 <br>
 Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Axios, JavaScript, HTML, CSS,
 
@@ -18,9 +18,9 @@ Backend: Node.js, Express, SQL, PostgreSQL,  Git CLI, GitHub, VS Code, Vercel, H
 
 Additional Skills: Adobe After Effects, Premiere, Photoshop, Davinci Resolve, OBS, Cinematography, Celtx
 
-📲Interested in learning more about Full-Stack Web Development career opportunities.
+📲 Interested in learning more about Full-Stack Web Development career opportunities.
 
-💬Please reach out with any questions or opportunities—> Looking forward to connecting.
+💬 Please reach out with any questions or opportunities—> Looking forward to connecting.
 <br>
 <br>
 ⬇ 𝐒𝐜𝐫𝐨𝐥𝐥 𝐃𝐨𝐰𝐧 𝐓𝐨 𝐕𝐢𝐞𝐰 𝐌𝐲 𝐑𝐞𝐜𝐞𝐧𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 ⬇
