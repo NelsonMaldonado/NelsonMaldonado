@@ -11,6 +11,7 @@ Currently, I am contributing to both independent and team oriented development p
 As a Software Engineer, I look forward to contributing my combined skills and experience in video editing, media production, and directing salsa choreography in a creative and dynamic way. 
 
 💻𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤:
+<br>
 Frontend: React.js, Redux, Hooks, Context API, Jest, Cypress, Axios, JavaScript, HTML, CSS,
 
 Backend: Node.js, Express, SQL, PostgreSQL,  Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify, FirebaseAuth
