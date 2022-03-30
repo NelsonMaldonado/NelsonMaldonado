@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/34cC7nr/Nelson-banner.png" alt="Nelson-banner" border="0" ></a>
 
 
-Hi 👋I’m Nelson, a passionate Full Stack Web Developer focused on delivering powerful software engineering solutions and collaborating with like-minded professionals to accomplish big goals!
+Hi 👋 I’m Nelson, a passionate Full Stack Web Developer focused on delivering powerful software engineering solutions and collaborating with like-minded professionals to accomplish big goals!
 
 Currently, I am contributing to both independent and team oriented development projects.
 
