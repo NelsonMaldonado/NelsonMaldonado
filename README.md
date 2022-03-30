@@ -20,6 +20,7 @@ Additional Skills: Adobe After Effects, Premiere, Photoshop, Davinci Resolve, OB
 📲Interested in learning more about Full-Stack Web Development career opportunities.
 
 💬Please reach out with any questions or opportunities—> Looking forward to connecting.
+<br>
 ⬇ 𝐒𝐜𝐫𝐨𝐥𝐥 𝐃𝐨𝐰𝐧 𝐓𝐨 𝐕𝐢𝐞𝐰 𝐌𝐲 𝐑𝐞𝐜𝐞𝐧𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 ⬇
 
 
